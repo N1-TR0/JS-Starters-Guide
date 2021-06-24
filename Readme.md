@@ -1,46 +1,67 @@
-<h1 align="center"><img src="https://www.bryntum.com/wp-content/uploads/2020/02/js-logo.png" width="30px"> My JS Beginners Guide
+## What is a Variable
+
+**VARIABLES** are like "labeled-Jars" For a Value in JavaScript
+
+We Can store a value and give it a name so that we can...
+
+-Recall it 
+-Use it
+-or Change it Later on
+
+## Basic Syntax
+
+``let someName = value;``
+## Recall Variables
+
+``let Cats = 2;
+  let Dogs = 1;``
   
+##Update Variables
 
-This Guide is Split in 18 Parts
+``let controllers = 2;
+//an angrey Gamer Broke a controller into Pisces :(
+controllers -1;
+controllers;
+//to actually change controllers 
+controllers = -1;
+controllers;``
+##What is Let ?
+**LET** allows you to declare Vars that are limited to the scope of a block statement
+
+``let somename = value;``
+
+**Example** 
+
+``let pets = 14;
+  {
+     let cat = 7;
+     cat + 2; //9
   
- To See How To Setup a JavaScript Environment Here
-##  View The Branchs For The Following Parts  
+  }  
+     
+cat + 10; // 25
 
+## What is Const 
 
- `1.Variables`
+**CONST** Works just like let expect you CANNONT change the value.
+
+``const somename = value;``
+
+**Example** of const
+
+``const cars = 15;
+  cars = 20; ``
   
- `2. How String Works in JS`
-  
- `3. How String Methods Work`
+  ``const trucks = 20; 
+    trucks = trucks + 10;``
+## What is Var ? 
 
- `4. Operations in JS`
-
- `5. IF Else`
- 
- `6. Array`
- 
-  `7. Array Methods`
- 
-  `8. Loops`
- 
-  `9. Array Functions`
- 
-  `10. Objects`
- 
-  `11. Object Methods`
- 
-  `12. This Keywork`
- 
-  `13. Function`
- 
-  `14. Destructuring`
- 
-  `15. Error Handling`
- 
-  `16. Promise`
- 
-  `17. async/await`
- 
-  `18. Finding HTML Elements` 
-
-
+Before let and cost Var Was the only way of declaring variables. these days there isn't really a reason to use it.
+``var somename = value;
+**example of var **
+``var cars = 15;
+  {
+    car + 5; //20
+  }
+  car + 10 //25``
+    
