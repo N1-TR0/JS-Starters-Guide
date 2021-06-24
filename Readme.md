@@ -1,4 +1,4 @@
-## What is a Variable
+##What is a Variable
 
 **VARIABLES** are like "labeled-Jars" For a Value in JavaScript
 
@@ -8,10 +8,10 @@ We Can store a value and give it a name so that we can...
 -Use it
 -or Change it Later on
 
-## Basic Syntax
+##Basic Syntax
 
 ``let someName = value;``
-## Recall Variables
+##Recall Variables
 
 ``let Cats = 2;
   let Dogs = 1;``
@@ -35,11 +35,11 @@ controllers; ``
 ##What is Let ?
 **LET** allows you to declare Vars that are limited to the scope of a block statement
 
-``let somename = value;``
+```let somename = value;```
 
 **Example** 
 
-``let pets = 14;
+```let pets = 14;
   {
      
      let cat = 7;
@@ -48,36 +48,38 @@ controllers; ``
   
   }  
      
-cat + 10; // 25 ``
+cat + 10; // 25 ```
 
 ## What is Const 
 
 **CONST** Works just like let expect you CANNONT change the value.
 
-``const somename = value;``
+```const somename = value;```
 
 **Example** of const
 
-``const cars = 15;
+```const cars = 15;
   
-  cars = 20; ``
+  cars = 20; ```
   
-  ``const trucks = 20; 
+  ```const trucks = 20; 
     
-    trucks = trucks + 10;``
+    trucks = trucks + 10;```
 
 ## What is Var ? 
 
 Before let and cost Var Was the only way of declaring variables. these days there isn't really a reason to use it.
 
-``var somename = value;
+```var somename = value;```
+
 **example of var **
-``var cars = 15;
+
+```var cars = 15;
    {
    
    car + 5; //20
    
    }
   
-  car + 10 //25``
+  car + 10 //25```
     
