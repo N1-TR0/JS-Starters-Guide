@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://www.bryntum.com/wp-content/uploads/2020/02/js-logo.png" width="30px"> My JS Beginners Guide
+  
 
-  
-  
-  This Guide is Split in 18 Parts
+This Guide is Split in 18 Parts
   
  To See How To Setup a JavaScript Environment Here
 ##  View The Branchs For The Following Parts  
