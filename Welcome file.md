@@ -2,7 +2,7 @@
 
 This Guide is Split in 18 Parts
 To See How To Setup a JavaScript Environment Here
-<h1 align="center"><img src=https://icons-for-free.com/iconfiles/png/512/bx+git+branch-1325051880787381640.png" width="30px"> View The Branchs For The Following Parts  
+##  View The Branchs For The Following Parts  
 
 
 `1.Variables`
@@ -24,7 +24,4 @@ To See How To Setup a JavaScript Environment Here
 `17. async/await`
 `18. Finding HTML Elements` 
 
-## Check Out My Discord Servers
 
-
-<iframe src="https://discord.com/widget?id=829049274623983616&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
